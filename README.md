@@ -2,7 +2,7 @@
 
 ## Introduction
 <p style="text-align: justify">
-An image is converted to the HSV color space for color based segmentation. The body tones can be used for tracking in AR applications. </p>
+An image is converted to the HSV color space for color based segmentation. The body tones can be used for tracking and AR applications. </p>
 
 ## Description
 This simple color segmentation approach is as follows:
